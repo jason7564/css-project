@@ -28,7 +28,7 @@ html, body{
     background-color: #222;
 }
 h1{
-    float:center;
+    
 }
 h3{
    
@@ -40,20 +40,20 @@ nav a, nav a:link, nav a:visited{
     color:gold;
     background-color:#444;
     text-decoration: none;
-    float: center;
+    
 }
 a:hover, a:active{
     color:#fff;
     text-decoration: none;
-    float: center;
+    
 }
 nav ul{
-    float:center;
+    
 }
 nav li{
     display: inline;
     text-decoration: none;
-    float:center;
+    margin: 0 10;
 }
 #wrapper{
 
@@ -61,23 +61,23 @@ nav li{
 #masthead{
     color:#eee;
     border: 8px solid #666;
-    float: center;
+    margin: 0 10;
 }
 #main{
     background-color: #444;
     color: #d4d4d4;
     border: 8px solid #666;
-    float:center;
+    margin: 0 10;
 }
 #footer{
     background-color:#333;
     color:#999;
-    float:center;
+    margin: 0 10;
 }
 #footer p{
-    float:center;
+    
 }
 #footer a{
     color:gold;
-    float:center;
+    
 }
