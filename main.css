@@ -27,7 +27,7 @@ html, body{
     font-size: 3vh; /* default font-size = 1.0rem */
 }
 h1{
-   color: red;
+
 }
 h3{
    
@@ -54,7 +54,7 @@ nav li{
 
 }
 #main{
-
+    background-color: #222;
 }
 #footer{
 
