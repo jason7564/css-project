@@ -53,10 +53,10 @@ nav ul{
 nav li{
     display: inline;
     text-decoration: none;
-    margin: 0 10;
+    margin: 25 50 100 50;
 }
 #wrapper{
-    background-color:red;
+    background-color:#444;
 
 }
 #masthead{
