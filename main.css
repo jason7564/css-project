@@ -53,7 +53,8 @@ nav ul{
 nav li{
     display: inline;
     text-decoration: none;
-    margin: 25 50 100 50;
+    position: relative;
+    padding: 15px 20px;
 }
 #wrapper{
     background-color:#444;
