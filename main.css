@@ -24,11 +24,11 @@ http://griffis.edumedia.ca/mad9013/html-only/saturn.v1.jpg
     box-sizing: border-box;
 }
 html, body{
-    font-size: 4.5vh; /* default font-size = 1.0rem */
+    font-size: 4vh; /* default font-size = 1.0rem */
     background-color: #222;
 }
 h1{
-
+    float:center;
 }
 h3{
    
@@ -39,15 +39,21 @@ p{
 nav a, nav a:link, nav a:visited{
     color:gold;
     background-color:#444;
+    text-decoration: none;
+    float: center;
 }
 a:hover, a:active{
     color:#fff;
+    text-decoration: none;
+    float: center;
 }
 nav ul{
-
+    float:center;
 }
 nav li{
     display: inline;
+    text-decoration: none;
+    float:center;
 }
 #wrapper{
 
@@ -55,19 +61,23 @@ nav li{
 #masthead{
     color:#eee;
     border: 8px solid #666;
+    float: center;
 }
 #main{
     background-color: #444;
     color: #d4d4d4;
     border: 8px solid #666;
+    float:center;
 }
 #footer{
     background-color:#333;
     color:#999;
+    float:center;
 }
 #footer p{
-
+    float:center;
 }
 #footer a{
     color:gold;
+    float:center;
 }
