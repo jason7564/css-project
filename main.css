@@ -55,31 +55,31 @@ nav li{
     display: inline;
     text-decoration: none;
     position: relative;
-    padding: 25px 20px;
+    
     
 }
 #wrapper{
     background-color:#444;
-    margin: 40px;
+    margin: 0px 75px 0px 75px;
 
 }
 #masthead{
     color:#eee;
     border-bottom: 8px solid #666;
-    margin: 40px;
+    margin: 0px 75px 0px 75px;
     
 }
 #main{
     background-color: #444;
     color: #d4d4d4;
     border-top: 8px solid #666;
-    margin: 40px;
+    margin: 0px 75px 0px 75px;
     
 }
 #footer{
     background-color:#333;
     color:#999;
-    margin: 40px;
+    margin: 0px 75px 0px 75px;
     
 }
 #footer p{
