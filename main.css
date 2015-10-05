@@ -92,8 +92,9 @@ nav li{
 
 }
 #masthead{
+    z-index: -1;
     color:#eee;
-    background: url("https://github.com/jason7564/css-project/blob/gh-pages/img/img:img1.jpg") no-repeat;
+    background: url("http://griffis.edumedia.ca/mad9013/html-only/saturn.v1.jpg") no-repeat;
     border-bottom: 8px solid #666;
     margin-left:0px;
     margin-right:0px;
