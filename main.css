@@ -37,7 +37,7 @@ h1{
     padding-bottom: 0px;
     padding-top: 100px;
     padding-left: 10px;
-    font-size:150px;
+    font-size:120px;
     margin-right:25px;
     text-shadow: -1.5px -1.5px gold , 1.5px 1.5px black;
     font-family: Calibri;
@@ -84,7 +84,7 @@ nav li{
     position: relative;
     font-family:Verdana;
     font-size: 24px;
-    padding-left:75px;
+    padding-left:60px;
     
     
 }
