@@ -20,7 +20,7 @@ http://griffis.edumedia.ca/mad9013/html-only/saturn.v1.jpg
 ******************************/
 *{
     padding: 0px;
-    margin: 0px 5px 0px 5px;
+    margin: 0px 0px 0px 0px;
     box-sizing: border-box;
 }
 html, body{
@@ -29,7 +29,7 @@ html, body{
     width: 750px;
     height: 750px;
     margin-right: 0px;
-    margin-left: 175px;
+    margin-left: 50px;
 }
 h1{
     height:288px;
@@ -74,6 +74,8 @@ nav ul{
    margin-top: 10px;
    margin-bottom: 10px;
    margin-left: 15px;
+   width:910px;
+   height:33px;
     
 }
 nav li{
@@ -98,7 +100,7 @@ nav li{
     border-bottom: 8px solid #666;
     margin-left:0px;
     margin-right:0px;
-    width:940px;
+    width:910px;
     height:288px;
 }
 #main{
@@ -107,7 +109,7 @@ nav li{
     border-top: 8px solid #666;
     margin-left:0px;
     margin-right:0px;
-    width:940px;
+    width:910px;
     height:757px;
     
     
