@@ -19,7 +19,7 @@ Images
 http://griffis.edumedia.ca/mad9013/html-only/saturn.v1.jpg
 ******************************/
 *{
-    padding: 0px;
+    padding: 1.5rem 2rem 2rem 1.5rem;
     margin: 0px;
     box-sizing: border-box;
 }
