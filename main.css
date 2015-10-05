@@ -39,7 +39,7 @@ h1{
     padding-left: 10px;
     font-size:80px;
     margin-right:25px;
-    text-shadow: -0.19rem -0.1rem 0.45rem gold , 0.3rem 0.3rem 1rem black;
+    text-shadow: 1px 1px gold , 0.5px 0.5px black;
 }
 h3{
    margin-top:50px;
