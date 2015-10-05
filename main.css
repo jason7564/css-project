@@ -19,7 +19,7 @@ Images
 http://griffis.edumedia.ca/mad9013/html-only/saturn.v1.jpg
 ******************************/
 *{
-    padding: 0px 5px 0px 5px;
+    padding: 0px;
     margin: 0px;
     box-sizing: border-box;
 }
@@ -67,8 +67,8 @@ nav li{
     color:#eee;
     background: url("http://griffis.edumedia.ca/mad9013/html-only/saturn.v1.jpg") no-repeat;
     border-bottom: 8px solid #666;
-    height: 80px;
-    padding: 5 5 5 5;
+    
+    
     
 }
 #main{
