@@ -98,6 +98,8 @@ nav li{
     border-bottom: 8px solid #666;
     margin-left:0px;
     margin-right:0px;
+    width:940px;
+    height:288px;
 }
 #main{
     background-color: #444;
@@ -105,6 +107,8 @@ nav li{
     border-top: 8px solid #666;
     margin-left:0px;
     margin-right:0px;
+    width:940px;
+    height:757px;
     
     
     
@@ -112,6 +116,7 @@ nav li{
 #footer{
     background-color:#333;
     color:#999;
+    width:925px;
     height: 150px;
     padding-top: 50px;
     padding-left: 15px;
