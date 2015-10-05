@@ -40,6 +40,7 @@ h1{
     font-size:80px;
     margin-right:25px;
     text-shadow: -1.5px -1.5px gold , 1.5px 1.5px black;
+    font-family: Calibri;
 }
 h3{
    margin-top:50px;
@@ -94,7 +95,6 @@ nav li{
     color:#eee;
     background: url("http://griffis.edumedia.ca/mad9013/html-only/saturn.v1.jpg") no-repeat;
     border-bottom: 8px solid #666;
-    font-family: Calibri;
     margin-left:0px;
     margin-right:0px;
 }
