@@ -46,6 +46,7 @@ h3{
    margin-bottom:50px;
    margin-right:0px;
    font-family: Calibri;
+   font-size:26px;
    
 }
 p{
@@ -114,7 +115,7 @@ nav li{
     
 }
 #footer p{
-    font-size:24px;
+    font-size:20px;
     
 }
 #footer a{
